@@ -28,7 +28,7 @@ Features:
   Monthly and weekly error volume trends
 **  View Sample Screenshot**
 
-3. Automated Approvals with Power Automate
+**3. Automated Approvals with Power Automate**
 Tool: SharePoint + Power Automate
 
 Overview: Triggers Teams-based approvals when items are added to a SharePoint list.
