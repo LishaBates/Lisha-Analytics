@@ -1,8 +1,6 @@
-## Lisha-Analytics
+# Lisha-Analytics
 # Data Projects and Dashboards
 Release Management Analyst | Power BI • SharePoint • Automation I create dashboards, automate workflows, and help teams make smarter, faster decisions.
-
-**Business Intelligence Portfolio**
 
 Welcome to my BI portfolio. This is a collection of projects I've created to demonstrate my skills in data analysis, visualization, automation, and reporting. Tools featured include Power BI, SQL, SharePoint, and Power Automate.
 
